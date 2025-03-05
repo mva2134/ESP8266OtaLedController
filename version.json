@@ -3,6 +3,6 @@
     "release_date": "2025-03-05",
     "description": "Bug fixes and performance improvements",
     "firmware_url": "https://raw.githubusercontent.com/mva2134/ESP8266OtaLedController/main/firmware1.0.0.bin",
-    "ledPwm":"50"
+    "ledPwm":"200"
   }
   //value:0-255 | Valid for Version 1.0.0
