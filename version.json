@@ -1,5 +1,0 @@
-{
-    "version": "1.1",
-    "url": "https://raw.githubusercontent.com/mva2134/Esp32LedTest/main/firmware.bin"
-}
-// This JSON object provides the version and URL for a firmware update. The `version` field specifies the version of the firmware, and the `url` field provides the direct link to download the firmware binary file.
